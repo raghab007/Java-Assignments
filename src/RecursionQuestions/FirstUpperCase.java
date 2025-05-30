@@ -8,6 +8,7 @@ public class FirstUpperCase {
     }
 
 
+    // I can do this by shrinking the string without passing the current index also...
     static String firstUpperCase(String string, int current){
         if (current>=string.length()-1){
             return null ;

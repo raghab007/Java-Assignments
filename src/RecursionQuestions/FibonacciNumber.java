@@ -12,7 +12,6 @@ public class FibonacciNumber {
        if (n<=2){
            return n;
        }
-
         return getFibonacciNumber(n-1)+getFibonacciNumber(n-2);
     }
 }

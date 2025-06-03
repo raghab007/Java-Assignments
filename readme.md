@@ -4,7 +4,7 @@
 1. Pattern Questions link
 > https://github.com/raghab007/DSA-Bootcamp-Java/blob/main/assignments/09-patterns.md
 2. Recursion Questions Link
-# Questions
+ Questions
 > https://github.com/raghab007/DSA-Bootcamp-Java/blob/main/assignments/10-recursion.md
-# Solutions
+ Solutions
 > https://github.com/raghab007/Java-Assignments/tree/main/src/RecursionQuestions

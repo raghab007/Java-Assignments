@@ -17,12 +17,17 @@ public class BubbleSort {
         if (lastIndex==0){
             return;
         }
+        int count  = 0;
         for (int i = 0; i < lastIndex - 1; i++) {
             if (array[i] > array[i+1]) {
                 int a = array[i];
                 array[i] = array[i+1];
                 array[i+1] =a;
+                count++;
             }
+        }
+        if (count==0){
+            return;
         }
         sort(array,lastIndex-1);
     }

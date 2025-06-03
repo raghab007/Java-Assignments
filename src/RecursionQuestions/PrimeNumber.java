@@ -17,8 +17,7 @@ public class PrimeNumber {
         }else if(n==2){
             return true;
         }
-
-        if (n==divisor){
+        if (n*n>divisor){
             return  true;
         }
         if (n % divisor == 0){

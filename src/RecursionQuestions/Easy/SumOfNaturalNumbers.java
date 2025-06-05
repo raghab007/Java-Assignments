@@ -11,5 +11,4 @@ public class SumOfNaturalNumbers {
         }
         return n+sum(n-1);
     }
-
 }
